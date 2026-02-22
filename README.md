@@ -2,10 +2,6 @@
 
 ### A passionate Javascript developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Usman-co&label=Profile views&color=0e75b6&style=flat" alt="Usman-co" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Usman-co" alt="Usman-co" /></a> </p>
-
 - 🔭 I'm currently working on **Currently building Next.js applications on my own. Previously, I worked as a Software Engineer and have experience working with MCP. **
 
 - 🌱 I'm currently learning **Exploring AI and Agentic AI, including autonomous agents, workflows, and intelligent decision-making.**
