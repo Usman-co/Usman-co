@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman</h1>
-<h3 align="center">Senior JavaScript Engineer | Next.js | AI & Agentic Systems</h3>
+<h3 align="center">JavaScript Engineer | Next.js | AI & Agentic Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Usman-co&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **JavaScript-focused Software Engineer** with hands-on experience building **scalable, production-grade web applications**.
+I’m a JavaScript-focused software engineer with hands-on experience building scalable, production-grade web applications.
 
 - 🔭 Currently building **Next.js applications** with modern full-stack architectures  
 - 🧠 Exploring **AI & Agentic AI systems** — autonomous agents, workflows, and decision-making  
