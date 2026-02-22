@@ -1,19 +1,77 @@
-# Hi 👋, I'm Usman Ali
+<h1 align="center">Hi 👋, I'm Usman</h1>
+<h3 align="center">Senior JavaScript Engineer | Next.js | AI & Agentic Systems</h3>
 
-  ### A passionate Javascript developer
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Usman-co&label=Profile views&color=0e75b6&style=flat" alt="Usman-co" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Usman-co&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Usman-co" alt="Usman-co" /></a> </p>
+---
 
-- 🔭 I'm currently working on **Currently building Next.js applications on my own. Previously, I worked as a Software Engineer and have experience working with MCP. **
+## 👨‍💻 About Me
 
-- 🌱 I'm currently learning **Exploring AI and Agentic AI, including autonomous agents, workflows, and intelligent decision-making.**
+I’m a **JavaScript-focused Software Engineer** with hands-on experience building **scalable, production-grade web applications**.
 
-- 👯 I'm looking to collaborate on **Open to collaborating on scalable web applications, backend systems, and integration-heavy projects involving APIs and databases.**
+- 🔭 Currently building **Next.js applications** with modern full-stack architectures  
+- 🧠 Exploring **AI & Agentic AI systems** — autonomous agents, workflows, and decision-making  
+- ⚙️ Previously worked as a **Software Engineer**, delivering integration-heavy systems  
+- 🤝 Open to collaboration on **AI-driven products, web platforms, and backend systems**
 
-- 🤝 I'm looking for help with **AI & Agentic AI concepts, especially applying them to real-world applications.**
+---
 
-- 💬 Ask me about **JavaScript, React, Next.js, and API integrations.**
+## 🛠 Tech Stack
+
+**Frontend**
+- JavaScript (ES6+), TypeScript
+- React, Next.js
+- Tailwind CSS, CSS Modules
+
+**Backend**
+- Node.js, Express
+- REST APIs
+- Database integrations
+
+**AI / Emerging**
+- LLM-powered workflows
+- Agentic AI concepts
+- Tool-augmented AI systems
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Usman-co&show_icons=true&theme=default&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Usman-co&theme=default&hide_border=true"
+    height="165"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Usman-co&theme=github-light&hide_border=true"
+  />
+</p>
+
+---
+
+## 💬 Ask Me About
+
+- JavaScript & modern frontend architecture  
+- React / Next.js performance & patterns  
+- API design & integrations  
+- AI workflows & agent-based systems  
+
+---
+
+⭐️ *Always curious. Always building.*
 
 - 📫 How to reach me **usmanchurahi7860@gmail.com**
 
